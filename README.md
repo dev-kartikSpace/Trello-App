@@ -303,34 +303,6 @@ We love contributions! Here's how to get involved:
 
 ---
 
-## 📄 License
-
-<div align="center">
-
-**MIT License** - see the [LICENSE](LICENSE) file for details
-
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-</div>
-
----
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-**Made with ❤️ by the Kanbanly Team**
-
-Special thanks to:
-- 🎨 Trello for design inspiration
-- 🌟 Open source community
-- 🚀 Modern web technologies
-- 👥 Our amazing contributors
-
-</div>
-
----
-
 ## 📚 Documentation
 
 <div align="center">
